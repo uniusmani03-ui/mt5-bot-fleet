@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.pytest_cache/
+*.log
+# runtime state / personal data
+*_state.json
+*_status.json
+*_trades.csv
+*_log.csv
+accounts.json
+daily_levels.json
+app_alerts_sent.json
+history/
+spreads/
